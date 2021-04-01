@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TV2x9NvnPJ1HOwC+khxvJpm1/cUQRxxtgbYTijkiToMV5r9h7jtMSehlfHVWHlgCnSsMx+NV/821apDy/f0gDA==",
+  "success": true,
+  "projectFilePath": "S:\\VS Studio Projects\\TDL Console\\TDL\\TDL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vladuk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
